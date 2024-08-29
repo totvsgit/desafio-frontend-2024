@@ -7,9 +7,7 @@ Nessa etapa queremos ver como você pensa e estrutura seu código, por isso se l
 ## O desafio
 Nosso desafio contempla uma simples busca de pokémon que exibe seu resultado na forma de cards colapsáveis. Cada card abre e fecha mostrando as informações principais, tais quais o "sprite", nome e tipo do pokémon. Além disso, contém uma opção de “ver mais detalhes” na qual abrirá uma modal caso o usuário clique. Essa modal deve conter informações adicionais da sua escolha do pokémon detalhado.<br>
 
-Você deve usar a [PokéAPI](https://pokeapi.co/) na sua aplicação.
-
-E fica a dica, disponibilizar a sua aplicação online não é mandatório, porém garante pontos extras 👀
+Você deve consumir a [PokéAPI](https://pokeapi.co/) na sua aplicação e usar o `git` como controle de versão.
 
 ## Layout
 O layout é livre, mas disponibilizamos uma referência geral do buscador.
@@ -36,6 +34,6 @@ O layout é livre, mas disponibilizamos uma referência geral do buscador.
 
 <br>
 
-Assim que terminar mande um email com o link do repositório público e, se disponível, o link para a aplicação. E atenção, não faça mais commits depois disso.
+Assim que terminar mande um email com o link do repositório público contendo sua implementação e, se disponível, o link para a aplicação online. E atenção, não faça mais commits depois disso.
 
 **Boa sorte! Estamos anciosos pra ter você na equipe.**
