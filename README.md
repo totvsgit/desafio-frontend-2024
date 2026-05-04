@@ -40,4 +40,4 @@ O layout é livre, mas disponibilizamos uma referência geral do buscador.
 
 Assim que terminar mande um email com o link do repositório público contendo sua implementação e o link para a aplicação online. E atenção, não faça mais commits depois disso.
 
-**Boa sorte! Estamos ansiosos pra ter você na equipe.**
+**Boa sorte! Estamos ansiosos para ter você na equipe.**
